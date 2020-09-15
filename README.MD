@@ -8,9 +8,9 @@ MKOnlineMusicPlayer Docker 是 MKOnlineMusicPlayer 的 Docker 版本，集成了
 
 ```bash
 docker run -d \
-	-p 4000:80 \
-	--env TITLE=MusicPlayer \
-	registry.cn-hangzhou.aliyuncs.com/vczyh/mk-online-music-player
+    -p 4000:80 \
+    --env TITLE=MusicPlayer \
+    registry.cn-hangzhou.aliyuncs.com/vczyh/mk-online-music-player
 ```
 
 | 参数                    | 说明                                 |
@@ -21,4 +21,4 @@ docker run -d \
 
 ## 感谢
 
-- [**[ MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer)**](https://github.com/mengkunsoft/MKOnlineMusicPlayer)
+- [ MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer)
