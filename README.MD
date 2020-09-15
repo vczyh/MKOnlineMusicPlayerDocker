@@ -2,7 +2,7 @@
 
 [ MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer) 是一款开源的基于 `Meting` 的在线音乐播放器。**具有音乐搜索、播放、下载、歌词同步显示、个人网易云音乐播放列表同步等功能。**
 
-`MKOnlineMusicPlayer Docker`是`MKOnlineMusicPlayer`的`Docker`版本，集成了运行环境，部署方便。
+`MKOnlineMusicPlayer Docker` 是 `MKOnlineMusicPlayer` 的 `Docker` 版本，集成了运行环境，部署方便。
 
 ## 使用
 
